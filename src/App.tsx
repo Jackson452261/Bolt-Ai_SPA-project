@@ -41,14 +41,7 @@ function App() {
       price: '$140',
       image: 'https://images.pexels.com/photos/3985357/pexels-photo-3985357.jpeg?auto=compress&cs=tinysrgb&w=600'
     },
-    {
-      id: 5,
-      name: 'Anti-Aging Treatment',
-      description: 'Advanced skincare treatment targeting fine lines and age spots',
-      duration: '90 min',
-      price: '$200',
-      image: 'https://images.pexels.com/photos/3985363/pexels-photo-3985363.jpeg?auto=compress&cs=tinysrgb&w=600'
-    },
+    
     {
       id: 6,
       name: 'Couples Package',
