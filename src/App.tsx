@@ -334,7 +334,7 @@ function App() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
             <div>
               <h2 className="text-3xl sm:text-4xl font-bold mb-6">
-                Ready to <span className="text-rose-400">Unwind</span>?
+                 Contact<span className="text-rose-400">Us</span>
               </h2>
               <p className="text-gray-300 text-lg mb-8 leading-relaxed">
                 Book your appointment today and experience the ultimate in relaxation and rejuvenation. 
@@ -387,7 +387,7 @@ function App() {
                 </div>
               </div>
             </div>
-
+ {/*
             <div className="bg-gray-800 p-8 rounded-2xl">
               <h3 className="text-2xl font-bold mb-6">Book Your Visit</h3>
               <form className="space-y-6">
@@ -431,12 +431,12 @@ function App() {
                   Request Appointment
                 </button>
               </form>
-            </div>
+            </div>*/}
           </div>
         </div>
       </section>
 
-      {/* Footer */}
+      {/* Footer  
       <footer className="bg-black text-white py-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
@@ -447,7 +447,7 @@ function App() {
             </p>
           </div>
         </div>
-      </footer>
+      </footer>*/}
     </div>
   );
 }
